@@ -21,7 +21,7 @@
 title: Cultivate Creative Space
 email: hello@cultivatecreativespace
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is under construction. Site should be live by 04/28/2024.
+  Cultivating a creative community!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cultivatecreativespace.com/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
