@@ -1,6 +1,14 @@
 @import "rouge-github";
 
 /*******************************************************************************
+Variables
+*******************************************************************************/
+
+:root {
+  --main-accent: #b59a6a;
+}
+
+/*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
 
@@ -47,7 +55,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   // background: #212121;
-  background: #b59a6a;
+  background: var(--main-accent);
   font-size: 16px;
   font-family: 'TT Chocolates', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -233,12 +241,13 @@ table {
   border: 1px solid #373737;
   margin-bottom: 20px;
   text-align: left;
+  width: 100%;
  }
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Courier New', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
-  background: #373737;
+  background: var(--main-accent);
   color: #fff;
  }
 
@@ -266,14 +275,24 @@ kbd {
   vertical-align: middle;
 }
 
-.site-nav { 
-  position: absolute;
-  top: 9px;
-  right: 15px;
-  background-color: #fdfdfd; 
-  border: 1px solid #e8e8e8;
-  border-radius: 5px;
-  text-align: right;
+.centered {
+  text-align: center;
+}
+
+.button {
+  color: var(--main-accent);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  border-color: #000000;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.button:hover {
+  text-decoration: none;
+  background-color: var(--main-accent);
+  color: #ffffff;
 }
 
 /*******************************************************************************
@@ -307,12 +326,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #b59a6a;
-  background: -moz-linear-gradient(top, #b59a6a, #b59a6a);
-  background: -webkit-linear-gradient(top, #b59a6a, #b59a6a);
-  background: -ms-linear-gradient(top, #b59a6a, #b59a6a);
-  background: -o-linear-gradient(top, #b59a6a, #b59a6a);
-  background: linear-gradient(to top, #b59a6a, #b59a6a);
+  background: var(--main-accent);
+  background: -moz-linear-gradient(top, var(--main-accent), var(--main-accent));
+  background: -webkit-linear-gradient(top, var(--main-accent), var(--main-accent));
+  background: -ms-linear-gradient(top, var(--main-accent), var(--main-accent));
+  background: -o-linear-gradient(top, var(--main-accent), var(--main-accent));
+  background: linear-gradient(to top, var(--main-accent), var(--main-accent));
 }
 
 #header_wrap .inner {
@@ -376,8 +395,8 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #b59a6a;
-  border-bottom: 1px solid #b59a6a;
+  border-top: 1px solid var(--main-accent);
+  border-bottom: 1px solid var(--main-accent);
 }
 
 #main_content {
@@ -385,7 +404,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #b59a6a;
+  background: var(--main-accent);
 }
 
 /*******************************************************************************
