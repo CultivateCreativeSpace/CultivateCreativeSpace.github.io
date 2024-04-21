@@ -146,7 +146,7 @@ Want to join us for a vendor market? Click the button to see the current schedul
 
 <hr />
 
->**DISCLAIMER**: “By renting the space, you acknowledge that the rental does not include a photographer or staff attendant on-site. Please book a photographer in addition to your studio rental, if needed. See the “Meet our Members” section to connect with one!”
+>**DISCLAIMER**: By renting the space, you acknowledge that the rental does not include a photographer or staff attendant on-site. Please book a photographer in addition to your studio rental, if needed. See the “Meet our Members” section to connect with one!
 
 <div class="section"></div>
 
@@ -177,10 +177,9 @@ Want to join us for a vendor market? Click the button to see the current schedul
 
 Follow us on Instragram and Facebook for updates and behind the scenes!
 
-| --- | --- | --- |
-| Email | Instagram | Facebook |
-| :---: | :---: | :---: |
-| <a class="link" href="mailto:hello@cultivatecreativespace.com">hello@cultivatecreativespace.com</a> | <a class="link" href="https://www.instagram.com/cultivatecreativespace/">instagram.com/cultivatecreativespace</a> | <a class="link" href="https://www.facebook.com/cultivatecreativespace/">facebook.com/cultivatecreativespace</a> |
+- <a class="link" href="mailto:hello@cultivatecreativespace.com">hello@cultivatecreativespace.com</a>
+- <a class="link" href="https://www.instagram.com/cultivatecreativespace/">instagram.com/cultivatecreativespace</a>
+- <a class="link" href="https://www.facebook.com/cultivatecreativespace/">facebook.com/cultivatecreativespace</a>
 
 <div class="section"></div>
 
