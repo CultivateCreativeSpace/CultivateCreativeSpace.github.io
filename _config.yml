@@ -29,6 +29,11 @@ url: "https://www.cultivatecreativespace.com/" # the base hostname & protocol fo
 #twitter_username: jekyllrb
 github_username:  CultivateCreativeSpace
 
+# Navbar
+header_pages:
+  - index.markdown
+  - about.markdown
+
 # Build settings
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
