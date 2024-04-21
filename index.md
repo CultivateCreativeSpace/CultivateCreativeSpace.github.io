@@ -5,26 +5,46 @@
 layout: default
 ---
 
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/home-00.jpg" width="100%" height="100%">
+</p>
+
 Host your photography and videography sessions, client meetings, business and networking events, pop-up vendor markets, workshops, classes and small parties in a beautiful 900 square foot space in the historic downtown Oakland, Oregon!  We are situated on the “main drag”, directly in front of the city park and playground, and just a block or two from delicious food and drink, antique shopping and historic stops, store fronts and alleys for additional photography opportunities!
 We offer hourly rentals and monthly memberships, along with occasional public vendor markets during events.
 
-<hr />
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/home-01.jpg" width="100%" height="100%">
+</p>
+
+<div class="section"></div>
 
 ### About the Space
 
-<hr />
+<div class="section"></div>
 
 📸 Immerse yourself in 900 sq. ft. of historic charm, tall ceilings and natural light at Cultivate Creative Space. Our space, nestled on the ground floor and stocked with plenty of backdrops and props, is not just a studio; it's a canvas prepped for you! The first of its kind in Douglas County, Oregon.
 
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/about-00.jpg" width="65%" height="65%">
+</p>
+
 🎨 Why wait for the perfect moment when you can create it? Cultivate Creative Space, adorned with original brick walls and a touch of modern elegance, is crafted for photographers, artists, yoga/dance/exercise instructors, crafters, market vendors and entrepreneurs to bring their visions to life.
+
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/about-01.jpg" width="100%" height="100%">
+</p>
 
 🌈 Be part of a community that fosters creativity, growth and collaboration at Cultivate Creative Space. We're not just offering a studio; we're building a space where local creative minds and businesses can flourish!
 
-<hr />
+<div class="section"></div>
 
 ### Inventory & Features
 
-<hr />
+<div class="section"></div>
+
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/inventory-features-collage.jpg" width="100%" height="100%">
+</p>
 
 #### *Building Features:*
 
@@ -36,11 +56,13 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Antique ceiling light pendants
 - Neutral light wood toned LVP floors
 - Double antique front doors
-- Ground floor and ADA accessible (a few inch step up into the space)
+- Ground floor
 - Single occupancy bathroom with attached changing space
 - Free street parking out front
 - City park and playground located directly behind the space
 - Close proximity to delicious food and drink, antique shopping and historic stops, storefronts and alleys for additional photography opportunities
+
+<hr />
 
 #### *Props Available:*
 
@@ -70,7 +92,9 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Mama outfits (some are maternity friendly)
 - More to come as we grow!
 
-#### *Equipment/Mics. Available:*
+<hr />
+
+#### *Equipment/Misc. Available:*
 
 - 107” Savage seamless backdrop paper rolls on a B&H Varipole backdrop system, in the colors of super white, pecan and thunder grey
 - Rolling backdrop wall with two handles on each side for moving ease and a pole on top to display décor or hang light fabrics from- one side  of the rolling wall is painted matte white and the other is painted matte black
@@ -88,53 +112,80 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Baby changing pad and wipes to utilize when needed
 - Trash bags to haul out any garbage brought in
 
-<hr />
+<div class="section"></div>
 
 ### Book the Space
 
-<hr />
+<div class="section"></div>
 
-#### *Hourly Rentals*
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/bench.jpg" width="65%" height="65%">
+</p>
+
+<div class="centered button-top-bottom-padding">
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c457f3e21430025f99eee">Hourly Rentals!</a>
+</div>
 
 To book the space, click the button and select your desired time slot INCLUDING setup and cleanup time. Anyone renting the space to host their newborn photography sessions or small events are required to book a minimum of 2 hours, but ideally 3 hours due to the nature of those events and the setup/cleanup involved. If you are NOT a photographer but desire a photographer for your space rental, you need to either book separately with Alysha Sanford Photography, or with another photographer of your choice.
 
-#### *Become a Member*
+<hr />
+
+<div class="centered button-top-bottom-padding">
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c53758828f2001f40bebb">Become a Member!</a>
+</div>
 
 Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 6 month minimum commitment, with auto payments set up each month. Click the button for more info!
 
-#### *Vendor Market Event Table Space*
+<hr />
+
+<div class="centered button-top-bottom-padding">
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c5ea55007240019485b0f">Vendor Market Event Table Space!</a>
+</div>
 
 Want to join us for a vendor market? Click the button to see the current schedule and reserve your spot for a great rate!
 
+<hr />
+
 >**DISCLAIMER**: “By renting the space, you acknowledge that the rental does not include a photographer or staff attendant on-site. Please book a photographer in addition to your studio rental, if needed. See the “Meet our Members” section to connect with one!”
 
-<hr />
+<div class="section"></div>
 
 ### Meet our Members
 
-<hr />
+<div class="section"></div>
 
 | --- |
 | Alysha Sanford Photography |
-| --- |
+| :---: |
+| <img src="/assets/images/asp-trio.jpg" width="95%" height="95%"> |
 | Meet the Cultivate Creative Space founder! Alysha of Alysha Sanford Photography specializes in maternity, newborns, babies and growing families. She also photographs pets, children, seniors, small business branding and headshots, boudoir and more! Contact her today to inquire about a photography session! |
-| [Alysha Sanford Photography Website](https://alyshasanfordphoto.com/) |
+| <a class="link" href="https://www.alyshasanfordphoto.com/">Connect with Alysha Sanford Photography here!</a> |
 
-#### **Become a Member**
+<div class="centered button-top-bottom-padding">
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c53758828f2001f40bebb">Become a Member!</a>
+</div>
 
-<hr />
+<div class="section"></div>
 
 ### Contact
 
-<hr />
+<div class="section"></div>
+
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/couch.jpg" width="65%" height="65%">
+</p>
+
+Follow us on Instragram and Facebook for updates and behind the scenes!
 
 | --- | --- | --- |
 | Email | Instagram | Facebook |
 | :---: | :---: | :---: |
-| [hello@cultivatecreativespace](mailto:hello@cultivatecreativespace.com) | [instagram.com/cultivatecreativespace](https://www.instagram.com/cultivatecreativespace/) | [facebook.com/cultivatecreativespace](https://www.facebook.com/cultivatecreativespace/) |
+| <a class="link" href="mailto:hello@cultivatecreativespace.com">hello@cultivatecreativespace.com</a> | <a class="link" href="https://www.instagram.com/cultivatecreativespace/">instagram.com/cultivatecreativespace</a> | <a class="link" href="https://www.facebook.com/cultivatecreativespace/">facebook.com/cultivatecreativespace</a> |
 
-<div class="centered">
+<div class="section"></div>
 
-<a class="button" href="https://www.google.com/">DELETE ME</a>
+Join our email list for exclusive sales, sneak peeks and events!
 
+<div class="centered button-top-bottom-padding">
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c707e500724002c485233">Email List Sign Up!</a>
 </div>

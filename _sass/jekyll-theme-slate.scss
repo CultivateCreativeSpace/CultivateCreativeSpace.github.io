@@ -5,7 +5,7 @@ Variables
 *******************************************************************************/
 
 :root {
-  --main-accent: #b59a6a;
+  --main-accent: #c6b49e;
 }
 
 /*******************************************************************************
@@ -239,7 +239,7 @@ hr {
 
 table {
   border: 1px solid #373737;
-  margin-bottom: 20px;
+  margin: 20px 0px 20px 0px;
   text-align: left;
   width: 100%;
  }
@@ -275,10 +275,6 @@ kbd {
   vertical-align: middle;
 }
 
-.centered {
-  text-align: center;
-}
-
 .button {
   color: var(--main-accent);
   font-weight: bold;
@@ -287,12 +283,44 @@ kbd {
   border-color: #000000;
   border-width: 1px;
   border-style: solid;
+  box-shadow: 3px 3px #4c4c4c;
 }
 
-.button:hover {
+.button:hover, .button:active {
   text-decoration: none;
   background-color: var(--main-accent);
   color: #ffffff;
+  border-color: var(--main-accent);
+  box-shadow: 3px 3px #796e61;
+  cursor: pointer;
+}
+
+.button-center {
+  text-align: center;
+}
+
+.button-top-bottom-padding {
+  margin: 20px 0px 20px 0px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.link {
+  color: var(--main-accent);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.link:hover, .link:active {
+  color: #796e61;
+}
+
+.section {
+  border-style: solid;
+  border-width: 2px;
+  border-color: var(--main-accent);
 }
 
 /*******************************************************************************
