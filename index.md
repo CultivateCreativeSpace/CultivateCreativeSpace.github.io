@@ -154,10 +154,13 @@ Want to join us for a vendor market? Click the button to see the current schedul
 
 <div class="section"></div>
 
+<p style="margin: 20px;" align="center">
+  <img src="/assets/images/asp-trio.jpg" width="100%" height="100%">
+</p>
+
 | --- |
 | Alysha Sanford Photography |
-| :---: |
-| <img src="/assets/images/asp-trio.jpg" width="95%" height="95%"> |
+| --- |
 | Meet the Cultivate Creative Space founder! Alysha of Alysha Sanford Photography specializes in maternity, newborns, babies and growing families. She also photographs pets, children, seniors, small business branding and headshots, boudoir and more! Contact her today to inquire about a photography session! |
 | <a class="link" href="https://www.alyshasanfordphoto.com/">Connect with Alysha Sanford Photography here!</a> |
 
