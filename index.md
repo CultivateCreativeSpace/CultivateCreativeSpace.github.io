@@ -111,6 +111,8 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Cleaning supplies
 - Baby changing pad and wipes to utilize when needed
 - Trash bags to haul out any garbage brought in
+- Ladder
+- Step Stool
 
 <div class="section"></div>
 
@@ -123,7 +125,7 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 </p>
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c457f3e21430025f99eee">Hourly Rentals!</a>
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662690cc7ce9d3002b73b375">Hourly Rentals!</a>
 </div>
 
 To book the space, click the button and select your desired time slot INCLUDING setup and cleanup time. Anyone renting the space to host their newborn photography sessions or small events are required to book a minimum of 2 hours, but ideally 3 hours due to the nature of those events and the setup/cleanup involved. If you are NOT a photographer but desire a photographer for your space rental, you need to either book separately with Alysha Sanford Photography, or with another photographer of your choice.
@@ -131,7 +133,7 @@ To book the space, click the button and select your desired time slot INCLUDING 
 <hr />
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c53758828f2001f40bebb">Become a Member!</a>
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662693157ce9d3001973b294">Become a Member!</a>
 </div>
 
 Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 6 month minimum commitment, with auto payments set up each month. Click the button for more info!
@@ -139,7 +141,7 @@ Memberships allow you to book more often and with ease! They also include a nice
 <hr />
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c5ea55007240019485b0f">Vendor Market Event Table Space!</a>
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/66268d86d878d30019deeb2b">Vendor Market Event Table Space!</a>
 </div>
 
 Want to join us for a vendor market? Click the button to see the current schedule and reserve your spot for a great rate!
@@ -165,7 +167,7 @@ Want to join us for a vendor market? Click the button to see the current schedul
 | <a class="link" href="https://www.alyshasanfordphoto.com/">Connect with Alysha Sanford Photography here!</a> |
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c53758828f2001f40bebb">Become a Member!</a>
+    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662693157ce9d3001973b294">Become a Member!</a>
 </div>
 
 <div class="section"></div>
