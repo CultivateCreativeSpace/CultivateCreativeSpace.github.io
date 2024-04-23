@@ -124,6 +124,10 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
   <img src="/assets/images/bench.jpg" width="65%" height="65%">
 </p>
 
+>**DISCLAIMER**: By renting the space, you acknowledge that the rental does not include a photographer or staff attendant on-site. Please book a photographer in addition to your studio rental, if needed. See the “Meet our Members” section to connect with one!
+
+<hr />
+
 <div class="centered button-top-bottom-padding">
     <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662690cc7ce9d3002b73b375">Hourly Rentals!</a>
 </div>
@@ -145,10 +149,6 @@ Memberships allow you to book more often and with ease! They also include a nice
 </div>
 
 Want to join us for a vendor market? Click the button to see the current schedule and reserve your spot for a great rate!
-
-<hr />
-
->**DISCLAIMER**: By renting the space, you acknowledge that the rental does not include a photographer or staff attendant on-site. Please book a photographer in addition to your studio rental, if needed. See the “Meet our Members” section to connect with one!
 
 <div class="section"></div>
 
