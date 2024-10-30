@@ -90,6 +90,11 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Baby outfits, shoes, hats and headbands
 - Toddler outfits
 - Mama outfits (some are maternity friendly)
+- Director's chair w/ 3 fabric options to swap out (see tutorial on our Instagram!)
+- Gold framed arch mirror
+- Black framed arch mirror
+- Disco ball set (varying sizes)
+- 7' tall gold balloon arch stand
 - More to come as we grow!
 
 <hr />
@@ -113,6 +118,8 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 - Trash bags to haul out any garbage brought in
 - Ladder
 - Step Stool
+- Utility wagon
+- Magnetic sidewalk a-frame chalkboard sign (magnets and chalk markers available)
 
 <div class="section"></div>
 
@@ -140,7 +147,7 @@ To book the space, click the button and select your desired time slot INCLUDING 
     <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662693157ce9d3001973b294">Become a Member!</a>
 </div>
 
-Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 6 month minimum commitment, with auto payments set up each month. Click the button for more info!
+Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 3 month minimum commitment, with auto payments set up each month. Click the button for more info!
 
 <hr />
 
