@@ -29,8 +29,8 @@
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title_custom">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline_custom">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -60,4 +60,23 @@
       </footer>
     </div>
   </body>
+  <style>
+    /*******************************************************************************
+    Full-Width Styles
+    *******************************************************************************/
+    #project_title_custom { margin: 0; color: #000; font-size: 42px; font-weight: 700; }
+
+    #project_tagline_custom { color: #000; font-size: 24px; font-weight: 300; background: none; }
+
+    /*******************************************************************************
+    Small Device Styles
+    *******************************************************************************/
+    @media screen and (max-width: 992px) { }
+    @media screen and (max-width: 480px) {
+      #project_title_custom { font-size: 32px; } 
+    }
+    @media screen and (max-width: 320px) {
+      #project_title_custom { font-size: 28px; }
+    }
+  </style>
 </html>

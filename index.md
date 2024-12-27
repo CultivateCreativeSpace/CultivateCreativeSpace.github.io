@@ -4,10 +4,15 @@
 
 layout: default
 ---
+<!--
+
+This is a picture that is going be replaced in the future per Alysha. 2024-12-27 ZS
 
 <p style="margin: 20px;" align="center">
   <img src="/assets/images/home-00.jpg" width="100%" height="100%">
 </p>
+
+-->
 
 Host your photography and videography sessions, client meetings, business and networking events, pop-up vendor markets, workshops, classes and small parties in a beautiful 900 square foot space in the historic downtown Oakland, Oregon!  We are situated on the “main drag”, directly in front of the city park and playground, and just a block or two from delicious food and drink, antique shopping and historic stops, store fronts and alleys for additional photography opportunities!
 We offer hourly rentals and monthly memberships, along with occasional public vendor markets during events.
@@ -101,7 +106,8 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 
 #### *Equipment/Misc. Available:*
 
-- 107” Savage seamless backdrop paper rolls on a B&H Varipole backdrop system, in the colors of super white, pecan and thunder grey
+- 107” Savage seamless backdrop paper rolls in the colors of super white, pecan and thunder grey…53” seamless paper backdrop rolls in the colors mocha and thunder grey
+- Lightweight backdrop system for seamless paper backdrop rolls or your custom fabric/decorative backdrops with 4 sandbag weights for safety
 - Rolling backdrop wall with two handles on each side for moving ease and a pole on top to display décor or hang light fabrics from- one side  of the rolling wall is painted matte white and the other is painted matte black
 - 2 large white diffusion panels to add behind sheer curtains for added privacy or diffusion
 - Newborn/infant posing bean bag
@@ -136,26 +142,36 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 <hr />
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662690cc7ce9d3002b73b375">Hourly Rentals!</a>
+    <a class="button" href="https://hello.dubsado.com:443/public/schedulerGroup/67674939be6904003aa67212">Hourly Rentals!</a>
 </div>
 
-To book the space, click the button and select your desired time slot INCLUDING setup and cleanup time. Anyone renting the space to host their newborn photography sessions or small events are required to book a minimum of 2 hours, but ideally 3 hours due to the nature of those events and the setup/cleanup involved. If you are NOT a photographer but desire a photographer for your space rental, you need to either book separately with Alysha Sanford Photography, or with another photographer of your choice.
+To book the space, click the button and select your desired time slot **INCLUDING** setup and cleanup time.
+
+First time renters must book a minimum of 1.5 hours, to ensure that they can complete their set up, meeting, tear-down, required cleanup and departure duties. Returning and punctual renters may book a minimum of 1 hour.
+
+Newborn photography session bookings and any/all events must book a minimum time slot of 2 hours, but ideally 3 hours + due to the nature of those events.
+
+All custom event decor and supplies must be brought in, including event tables and chairs. All food, drink and event trash must be hauled out with you (bags are provided). The studio does not currently offer a food prep space or any food storage. Various backdrops, prop furniture and light decor found on site can be utilized during your event but must be returned as found prior to the end of your rental window. Check out our social media pages for current decor available (see the link in our email signature below!).
+
+At this time, WIFI is not provided.
+
+Reservations are not complete until the rental agreement and liability waiver have been signed, and the payment has been submitted. See Terms and conditions for all detailed policies when completing your reservation. Please reach out if you have any questions.
 
 <hr />
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662693157ce9d3001973b294">Become a Member!</a>
+    <a class="button" href="mailto:hello@cultivatecreativespace.com">Become a Member!</a>
 </div>
 
-Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 3 month minimum commitment, with auto payments set up each month. Click the button for more info!
+Memberships allow you to book more often and with ease! They also include a nice discount on the existing hourly rate and special membership perks. These are a 3 month minimum commitment, with auto payments set up each month. Click the button to chat more about a membership!
 
 <hr />
 
 <div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/66268d86d878d30019deeb2b">Vendor Market Event Table Space!</a>
+    <a class="button" href="mailto:hello@cultivatecreativespace.com">Vendor Market Event Table Space!</a>
 </div>
 
-Want to join us for a vendor market? Click the button to see the current schedule and reserve your spot for a great rate!
+Want to join us for a vendor market? Click the button to chat about our upcoming markets!
 
 <div class="section"></div>
 
@@ -170,12 +186,8 @@ Want to join us for a vendor market? Click the button to see the current schedul
 | --- |
 | Alysha Sanford Photography |
 | --- |
-| Meet the Cultivate Creative Space founder! Alysha of Alysha Sanford Photography specializes in maternity, newborns, babies and growing families. She also photographs pets, children, seniors, small business branding and headshots, boudoir and more! Contact her today to inquire about a photography session! |
+| Meet the founder of Cultivate Creative Space! Alysha, also the owner of Alysha Sanford Photography, has served families and businesses in the Douglas County, Oregon area for over a decade! While she offers occasional family and infant photography sessions as her schedule allows, she is primarily focused on helping small business owners shine with strong head shots, brand and product photography. You’ll also find her offering a couple of new services in the digital and content marketing field. Contact her today to inquire about a photography or marketing strategy session! |
 | <a class="link" href="https://www.alyshasanfordphoto.com/">Connect with Alysha Sanford Photography here!</a> |
-
-<div class="centered button-top-bottom-padding">
-    <a class="button" href="https://cultivatecreativespace.hbportal.co/public/662693157ce9d3001973b294">Become a Member!</a>
-</div>
 
 <div class="section"></div>
 
@@ -193,6 +205,10 @@ Follow us on Instragram and Facebook for updates and behind the scenes!
 - <a class="link" href="https://www.instagram.com/cultivatecreativespace/">instagram.com/cultivatecreativespace</a>
 - <a class="link" href="https://www.facebook.com/cultivatecreativespace/">facebook.com/cultivatecreativespace</a>
 
+<!--
+
+This might be used in the future. 2024-12-27 ZS
+
 <div class="section"></div>
 
 Join our email list for exclusive sales, sneak peeks and events!
@@ -200,3 +216,5 @@ Join our email list for exclusive sales, sneak peeks and events!
 <div class="centered button-top-bottom-padding">
     <a class="button" href="https://cultivatecreativespace.hbportal.co/public/661c707e500724002c485233">Email List Sign Up!</a>
 </div>
+
+-->
