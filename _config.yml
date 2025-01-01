@@ -27,6 +27,9 @@ url: "https://www.cultivatecreativespace.com/" # the base hostname & protocol fo
 #twitter_username: jekyllrb
 github_username:  CultivateCreativeSpace
 
+# Google Analytics
+google_analytics: G-59VP4YF5ED
+
 # Build settings
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
