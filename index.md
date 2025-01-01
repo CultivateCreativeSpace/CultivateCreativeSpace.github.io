@@ -4,15 +4,10 @@
 
 layout: default
 ---
-<!--
-
-This is a picture that is going be replaced in the future per Alysha. 2024-12-27 ZS
 
 <p style="margin: 20px;" align="center">
   <img src="/assets/images/home-00.jpg" width="100%" height="100%">
 </p>
-
--->
 
 Host your photography and videography sessions, client meetings, business and networking events, pop-up vendor markets, workshops, classes and small parties in a beautiful 900 square foot space in the historic downtown Oakland, Oregon!  We are situated on the “main drag”, directly in front of the city park and playground, and just a block or two from delicious food and drink, antique shopping and historic stops, store fronts and alleys for additional photography opportunities!
 We offer hourly rentals and monthly memberships, along with occasional public vendor markets during events.
@@ -145,13 +140,15 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
     <a class="button" href="https://hello.dubsado.com:443/public/schedulerGroup/67674939be6904003aa67212">Hourly Rentals!</a>
 </div>
 
+Hourly rentals are set at $65.00 per hour.
+
 To book the space, click the button and select your desired time slot **INCLUDING** setup and cleanup time.
 
 First time renters must book a minimum of 1.5 hours, to ensure that they can complete their set up, meeting, tear-down, required cleanup and departure duties. Returning and punctual renters may book a minimum of 1 hour.
 
 Newborn photography session bookings and any/all events must book a minimum time slot of 2 hours, but ideally 3 hours + due to the nature of those events.
 
-All custom event decor and supplies must be brought in, including event tables and chairs. All food, drink and event trash must be hauled out with you (bags are provided). The studio does not currently offer a food prep space or any food storage. Various backdrops, prop furniture and light decor found on site can be utilized during your event but must be returned as found prior to the end of your rental window. Check out our social media pages for current decor available (see the link in our email signature below!).
+All custom event decor and supplies must be brought in, including event tables and chairs. All food, drink and event trash must be hauled out with you (bags are provided). The studio does not currently offer a food prep space or any food storage. Various backdrops, prop furniture and light decor found on site can be utilized during your event but must be returned as found prior to the end of your rental window. Check out our social media pages for current decor available! Scroll down to find the links at the bottom of this page.
 
 At this time, WIFI is not provided.
 
