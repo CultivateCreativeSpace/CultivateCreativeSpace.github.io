@@ -7,7 +7,7 @@ layout: default
 
 <div class="section"></div>
 
-### ‼💥‼ HUGE ANNOUNCEMENT ‼💥‼
+<h3 align="center">‼💥‼ HUGE ANNOUNCEMENT ‼💥‼</h3>
 
 <div class="section"></div>
 
