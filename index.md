@@ -5,9 +5,13 @@
 layout: default
 ---
 
-### ‼💥‼ HUGE ANNOUNCEMENT ‼💥‼
+<div class="section"></div>
 
-<p style:"font-weight: bold;">
+<h3 align="center">‼💥‼ HUGE ANNOUNCEMENT ‼💥‼</h3>
+
+<div class="section"></div>
+
+<p style="font-weight: bold;">
   The booking calendar is currently closed and big changes are ahead!
 
   Due to my capacity as a toddler mom with two businesses and a passionate volunteer focus, I’m having to make the difficult decision to step away and close Cultivate Creative Space. This was a long-time dream of mine to build and share with fellow small business owners and community members, as well as to draw foot traffic to historic Oakland, Oregon, and I’m so greatful for all of the support over the past year and a half.
