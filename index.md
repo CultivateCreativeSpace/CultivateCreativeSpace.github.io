@@ -5,6 +5,16 @@
 layout: default
 ---
 
+### ‼💥‼ HUGE ANNOUNCEMENT ‼💥‼
+
+<p style:"font-weight: bold;">
+  The booking calendar is currently closed and big changes are ahead!
+
+  Due to my capacity as a toddler mom with two businesses and a passionate volunteer focus, I’m having to make the difficult decision to step away and close Cultivate Creative Space. This was a long-time dream of mine to build and share with fellow small business owners and community members, as well as to draw foot traffic to historic Oakland, Oregon, and I’m so greatful for all of the support over the past year and a half.
+
+  My amazing landlord, owner of the 1905 Oakland Ice House, knows my heart and shares the same desire of sharing this magical building with all of you. She has been hard at work breathing her own dream into the back section of the space, turning it into what will soon be the 1905 Oakland Ice House Theater that will host both public and private events. The front space as we’ve know it may change a bit, but she expects to be able to continue rentals of the space after getting a bit more set up this summer. Stay tuned!
+</p>
+
 <p style="margin: 20px;" align="center">
   <img src="/assets/images/home-00.jpg" width="100%" height="100%">
 </p>
@@ -136,9 +146,11 @@ We offer hourly rentals and monthly memberships, along with occasional public ve
 
 <hr />
 
+<!--
 <div class="centered button-top-bottom-padding">
     <a class="button" href="https://hello.dubsado.com:443/public/schedulerGroup/67674939be6904003aa67212">Hourly Rentals!</a>
 </div>
+-->
 
 Hourly rentals are set at $65.00 per hour.
 
